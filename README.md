@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arc2y9
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 to reach me arc2y9#4132.
 
 <!---
