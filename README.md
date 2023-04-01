@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arc2y9
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 📖 I know C/C++
+- 🌱 I’m currently learning Python
 - 📫 to reach me arc2y9#4132.
 
 <!---
